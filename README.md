@@ -66,6 +66,7 @@ Solutions for various problems from CodeForces.
 | [791A](./791A%20-%20Bear%20and%20Big%20Brother.py) | Bear and Big Brother | Python | 800 |
 | [96A](./96A%20-%20Football.py) | Football | Python | 800 |
 | [977A](./977A%20-%20Wrong%20Subtraction.py) | Wrong Subtraction | Python | 800 |
+| [2241A](./2241A%20-%20Divide%20and%20Conquer.py) | Divide and Conquer | Python | 800 |
 
 ---
 
